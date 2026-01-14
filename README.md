@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-orange)
+![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis-yellow)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
+
 # Netflix Case Study – Exploratory Data Analysis (EDA)
 
 ## Business Problem
